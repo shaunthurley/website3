@@ -1,0 +1,40 @@
+.row {
+    height: 100px;
+    width: 300px;
+    display: flex;
+}
+
+.square {
+    height: 100px;
+    width: 100px;
+/*    border: solid black 1px;*/
+    font-size: 75px;
+    text-align: center;
+    line-height: 100px;
+}
+
+.left {
+    border-right: solid black 1px;
+}
+
+.right {
+    border-left: solid black 1px;
+}
+
+.top {
+    border-bottom: solid black 1px;
+}
+
+.bottom {
+    border-top: solid black 1px;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}
+
+.white {
+    background-color: white;
+    color: black;
+}
