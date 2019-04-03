@@ -51,21 +51,21 @@ function makeO() {
     checkForWinner();
 }
 
-function checkForWinner() {
-    if()
-}
-
-function checkForThree(locations) {
-    var l = 0;
-    var c = 0;
-    var r = 0;
-    var t = 0;
-    var m = 0;
-    var b = 0;
-    for(var i=0; i<locations; i++) {
-
-    }
-}
+//function checkForWinner() {
+//    if()
+//}
+//
+//function checkForThree(locations) {
+//    var l = 0;
+//    var c = 0;
+//    var r = 0;
+//    var t = 0;
+//    var m = 0;
+//    var b = 0;
+//    for(var i=0; i<locations; i++) {
+//
+//    }
+//}
 
 
 
